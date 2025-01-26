@@ -29,4 +29,6 @@ body {
     color: #000000;
     justify-content: space-evenly;
     width: 100%;
+    border-color: black;
+    border-style: dashed;
 }
