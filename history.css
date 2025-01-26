@@ -12,3 +12,11 @@ body {
      justify-content: center; 
      font-weight: 350; 
  }
+
+.text {
+     color: #000000; 
+     display: flex; 
+     justify-content: center; 
+     font-weight: 350; 
+     font-family: "Montserrat", sans-serif;
+}
