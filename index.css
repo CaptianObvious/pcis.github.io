@@ -11,8 +11,14 @@ body {
 }
 
 .title {
-    color: red;
+    color: #cd0067;
     display: flex;
     justify-content: center;
     font-weight: 350;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    color: #00cd66;
 }
