@@ -4,7 +4,7 @@ body {
     width: 100vw;
     height: 100vh;
     font-family: "Montserrat", sans-serif;
-    background-color: #A9A9A9;
+    background-color: #A4B2BF;
     
     /* font-family: "PT Sans", sans-serif; */
     /* font-family: "DM Sans", sans-serif; */
@@ -27,6 +27,6 @@ body {
     display: flex;
     flex-direction: row;
     color: #000000;
-    justify-content: space-between;
+    justify-content: space-evenly;
     width: 100%;
 }
