@@ -1,0 +1,13 @@
+.title {
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    font-weight: 350;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: #000000;
+}
