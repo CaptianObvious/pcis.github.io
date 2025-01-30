@@ -4,6 +4,8 @@ function Jobs_desk() {
         const vacancy = [];
         const min = 1;
         const max = 121;
-        const randomNum = Math.floor(Math.random() * (max - min + 1)) + min;
+        const random_brigade = Math.floor(Math.random() * (max - min + 1)) + min;
+        vacancy.push(random_brigade);
+    jobs.innerHTML = vacancy;
 }
 } 
